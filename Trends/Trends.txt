@@ -1,0 +1,7 @@
+Data Science aur Web Development departments ka completion rate high hai.
+
+Jitna duration zyada hota hai, dropouts thode badhte hain.
+
+Mentor interactions zyada hon to completion ka chance bhi zyada hota hai.
+
+Overall completion rate reasonable hai (apne dataset ke hisaab se).
